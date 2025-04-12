@@ -1,0 +1,23 @@
+{
+  "name": "dz6",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "npx parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordmax12122/dz6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordmax12122/dz6/issues"
+  },
+  "homepage": "https://github.com/lordmax12122/dz6#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
