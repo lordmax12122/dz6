@@ -2,10 +2,11 @@
   "name": "dz6",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://lordmax12122.github.io/dz6/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "demo": "npx parcel src/index.html",
-    "build": "parcel build src/index.html",
+    "build": "parcel build src/index.html --public-url /dz6",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
@@ -19,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/lordmax12122/dz6/issues"
   },
-  "homepage": "https://lordmax12122.github.io/dz6/",
   "devDependencies": {
     "parcel": "^2.14.4"
   },
