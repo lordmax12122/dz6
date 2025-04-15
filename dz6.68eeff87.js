@@ -1,0 +1,2 @@
+var r=globalThis,e={},u={},t=r.parcelRequirecd09;null==t&&((t=function(r){if(r in e)return e[r].exports;if(r in u){var t=u[r];delete u[r];var i={id:r,exports:{}};return e[r]=i,t.call(i.exports,i,i.exports),i.exports}var o=Error("Cannot find module '"+r+"'");throw o.code="MODULE_NOT_FOUND",o}).register=function(r,e){u[r]=e},r.parcelRequirecd09=t),t.register;var i=t("4CEV9");alert(`\u{412}\u{456}\u{434}\u{43F}\u{43E}\u{432}\u{456}\u{434}\u{44C}: ${i.equation}\u{441}\u{43C}`);
+//# sourceMappingURL=dz6.68eeff87.js.map
